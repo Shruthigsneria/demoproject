@@ -6,5 +6,7 @@ public class Shru {
 	@Test
 	public void shru() {
 		
+		System.out.println("new class created");
+		
 	}
 }
