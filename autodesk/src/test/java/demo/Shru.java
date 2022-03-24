@@ -8,5 +8,7 @@ public class Shru {
 		
 		System.out.println("new class created");
 		
+		System.out.println("New class modified");
+		
 	}
 }
