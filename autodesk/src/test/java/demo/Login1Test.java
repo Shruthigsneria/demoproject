@@ -2,7 +2,7 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class LoginTest {
+public class Login1Test {
 	@Test
 	public void loginscript() {
 		

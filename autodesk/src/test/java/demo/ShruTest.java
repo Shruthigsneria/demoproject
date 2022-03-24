@@ -2,7 +2,7 @@ package demo;
 
 import org.testng.annotations.Test;
 
-public class Shru {
+public class ShruTest {
 	@Test
 	public void shru() {
 		
