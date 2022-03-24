@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19775" started-at="2022-03-23T14:55:23 IST" finished-at="2022-03-23T14:55:42 IST">
+  <suite name="Default suite" duration-ms="62" started-at="2022-03-24T15:57:33 IST" finished-at="2022-03-24T15:57:33 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19775" started-at="2022-03-23T14:55:23 IST" finished-at="2022-03-23T14:55:42 IST">
-      <class name="demo.LoginAndLogoutTest">
-        <test-method status="PASS" signature="loginlogoutscript()[pri:0, instance:demo.LoginAndLogoutTest@77ec78b9]" name="loginlogoutscript" duration-ms="19737" started-at="2022-03-23T14:55:23 IST" finished-at="2022-03-23T14:55:42 IST">
+    <test name="Default test" duration-ms="62" started-at="2022-03-24T15:57:33 IST" finished-at="2022-03-24T15:57:33 IST">
+      <class name="demo.CreateProductTest">
+        <test-method status="PASS" signature="createProduct()[pri:0, instance:demo.CreateProductTest@1ad74ee]" name="createProduct" duration-ms="0" started-at="2022-03-24T15:57:33 IST" finished-at="2022-03-24T15:57:33 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- loginlogoutscript -->
-      </class> <!-- demo.LoginAndLogoutTest -->
+        </test-method> <!-- createProduct -->
+      </class> <!-- demo.CreateProductTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
