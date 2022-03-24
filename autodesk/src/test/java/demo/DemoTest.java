@@ -8,6 +8,8 @@ public class DemoTest {
 
 public void createcontact() {
 	System.out.println("contact created");
+	
+	System.out.println("create contact modified");
 }
 
 }
