@@ -9,5 +9,11 @@ public class CreateOrgTest {
 		System.out.println(" org created");
 		System.out.println("org modified");
 	}
+	
+	@Test
+	public void modifyOrg()
+	{
+		System.out.println("second method");
+	}
 
 }
